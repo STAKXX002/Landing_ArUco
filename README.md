@@ -23,7 +23,7 @@ aruco_landing_project/
 - Raspberry Pi or companion computer (e.g., Jetson Nano)
 - Camera module (Pi Camera or USB webcam)
 - Flight controller (e.g., Pixhawk running ArduPilot or PX4)
-- Python 3.7–3.19 (recommended)
+- Python 3.7–3.9 (recommended)
 - Linux OS (Raspberry Pi OS or Ubuntu recommended)
 
 ---

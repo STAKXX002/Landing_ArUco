@@ -147,4 +147,4 @@ Copyright (c) 2025 Kamal Kumar Behera
 All rights reserved.
 
 This project is private and not licensed for copying, modification, or redistribution.  
-You may view the source code with permission, but you cannot use it in any form without explicit authorization from the author.
+You cannot use it in any form without explicit authorization from the author.
